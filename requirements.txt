@@ -1,0 +1,5 @@
+python-docx==0.8.11
+odfpy==1.4.1
+ezdxf==1.1.1
+charset-normalizer==3.3.2
+configparser==6.0.0 
